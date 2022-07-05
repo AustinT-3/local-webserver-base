@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+div.hw {
+    color: white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-size: 50px;
+}
